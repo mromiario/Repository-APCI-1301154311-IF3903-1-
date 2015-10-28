@@ -1,4 +1,3 @@
-﻿
                         Program Hello; 
             Uses Crt;
             Begin
@@ -11,4 +10,3 @@
                 Writeln(‘NIM Teman’); //Ubah untuk menampilkan NIM teman anda
                 Writeln(‘Modul 10’); //Ubah untuk menampilkan string
             End.
-
